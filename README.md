@@ -1,2 +1,2 @@
 # Computer_Vision
-For project in CV
+Repository for projects in CV
